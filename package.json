@@ -1,0 +1,18 @@
+{
+  "name": "demo-db",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moleculer": "^0.14.6",
+    "moleculer-db": "^0.8.7",
+    "moleculer-db-adapter-mongo": "^0.4.8",
+    "moleculer-web": "^0.9.1",
+    "nats": "^1.4.9"
+  }
+}
